@@ -71,7 +71,8 @@ For example:
 ```text
 Input:
 lowest
-## work flow
+## Workflow
+
 Raw Text
     ↓
 Corpus
@@ -105,7 +106,9 @@ Loss Calculation
 Backpropagation
     ↓
 Text Generation
+
 ## Project structure
+
 Byte-Pair-Encoding-and-Causal-Language-Model/
 │
 ├── corpus.txt
@@ -116,6 +119,7 @@ Byte-Pair-Encoding-and-Causal-Language-Model/
 │
 └── README.md
 ##Conclusion
+
 This project demonstrates the complete foundation of a modern language processing pipeline.
 
 The Byte Pair Encoding tokenizer converts raw text into meaningful subword tokens and numerical token IDs. These token IDs are then used by the autoregressive causal language model to learn the relationship between tokens and predict the next token in a sequence.
