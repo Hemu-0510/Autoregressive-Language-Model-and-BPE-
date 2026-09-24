@@ -1,6 +1,6 @@
 # Byte Pair Encoding and Autoregressive Causal Language Model from Scratch
 
-## 📌 Overview
+##  Overview
 
 This project implements two fundamental Natural Language Processing (NLP) concepts from scratch:
 
@@ -13,7 +13,7 @@ This project provides a complete understanding of the basic pipeline used in mod
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 The main objectives of this project are:
 
