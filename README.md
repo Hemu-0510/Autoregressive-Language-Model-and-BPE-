@@ -107,6 +107,7 @@ Backpropagation
     ↓
 Text Generation
 
+---
 ## Project structure
 
 Byte-Pair-Encoding-and-Causal-Language-Model/
@@ -118,7 +119,9 @@ Byte-Pair-Encoding-and-Causal-Language-Model/
 ├── Autoregressive_Causal_Language_Model.ipynb
 │
 └── README.md
-##Conclusion
+
+---
+## Conclusion
 
 This project demonstrates the complete foundation of a modern language processing pipeline.
 
